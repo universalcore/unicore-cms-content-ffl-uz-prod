@@ -6,12 +6,12 @@
   "primary_category": "62caccc5066b4e9f82185983536893fb", 
   "created_at": "2014-10-13T14:09:21+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-03T12:24:35.668689+00:00", 
+  "modified_at": "2014-12-03T14:52:11.846246+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -23,7 +23,7 @@
   "image": null, 
   "published": true, 
   "position": 23, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "image_host": "http://thumbor.unicore.io", 
   "slug": "vvu-virusi-vya-ukimwi-ni-virusi-ambavyo-husababisha-ugonjwa-wa-ukimwi-ukosefu-wa-kinga-mwilini-ni-ugonjwa-unaokingika-na-kutibika-lakini-hauponyeki-watu-wanaweza-kuambukizwa-vvu-kwa-1-kufany", 
   "uuid": "126b6e2ec12d494bb331158a0100f29c"
 }
