@@ -6,12 +6,12 @@
   "primary_category": "62caccc5066b4e9f82185983536893fb", 
   "created_at": "2014-10-13T14:36:07+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-03T12:24:32.739452+00:00", 
+  "modified_at": "2014-12-03T14:52:09.250724+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -23,7 +23,7 @@
   "image": null, 
   "published": true, 
   "position": 15, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "image_host": "http://thumbor.unicore.io", 
   "slug": "mtoto-au-mtu-mzima-yeyote-asinyanyapaliwe-au-kutengwa-kwa-sababu-ameambukizwa-vvu-au-ameathiriwa-na-ukimwi-wazazi-walimu-na-viongozi-wana-nafasi-muhimu-katika-elimu-na-mapambano-ya-kuzuia-vvu-na-kat", 
   "uuid": "bd279e1347b046789723ddae3a8fe827"
 }
