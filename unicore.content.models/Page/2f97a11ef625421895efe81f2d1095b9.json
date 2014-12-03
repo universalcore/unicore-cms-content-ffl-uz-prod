@@ -6,12 +6,12 @@
   "primary_category": "27038d5886564782adcce92ec89494eb", 
   "created_at": "2014-10-10T21:46:21.389457+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-03T12:25:09.043353+00:00", 
+  "modified_at": "2014-12-03T14:52:37.308714+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -23,7 +23,7 @@
   "image": null, 
   "published": true, 
   "position": 92, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "image_host": "http://thumbor.unicore.io", 
   "slug": "mama-wajawazito-na-wanaonyonyesha-hawana-budi-kupewa-ulinzi-kazini-dhidi-ya-kubaguliwa-na-kufanya-kazi-katika-mazingira-hatarishi-kiafya-pia-wapewe-muda-wa-kunyonyesha-watoto-wao-wapewe-stahiki-y", 
   "uuid": "2f97a11ef625421895efe81f2d1095b9"
 }
