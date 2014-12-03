@@ -6,12 +6,12 @@
   "primary_category": "ab26c6bfad66410a82b0e274f4c3b729", 
   "created_at": "2014-10-13T10:28:53+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-03T12:24:45.977924+00:00", 
+  "modified_at": "2014-12-03T14:52:20.776458+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -23,7 +23,7 @@
   "image": null, 
   "published": true, 
   "position": 47, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "image_host": "http://thumbor.unicore.io", 
   "slug": "kunawa-uso-na-mikono-kwa-sabuni-kila-siku-kunasaidia-kujikinga-na-maambukizo-ya-magonjwa-ya-macho-katika-baadhi-ya-sehemu-duniani-maambukizo-ya-macho-husababisha-kupata-maambukizo-ya-trakoma-mtoto", 
   "uuid": "b5f48cd0007246e3b1681e119f226e70"
 }
