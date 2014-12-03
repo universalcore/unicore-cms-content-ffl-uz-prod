@@ -6,12 +6,12 @@
   "primary_category": "2ffe198e7447448e825f4cb543fb7267", 
   "created_at": "2014-10-13T09:24:14+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-03T12:24:47.846626+00:00", 
+  "modified_at": "2014-12-03T14:52:23.097831+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -23,7 +23,7 @@
   "image": null, 
   "published": true, 
   "position": 50, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "image_host": "http://thumbor.unicore.io", 
   "slug": "watoto-na-mama-wajawazito-wanaoishi-katika-mazingira-yenye-moshi-wa-tumbaku-au-wa-kuni-za-kupikia-wako-katika-hatari-zaidi-ya-kuugua-nyumonia-au-magonjwa-mengine-ya-njia-ya-hewa", 
   "uuid": "d8cc72acf0344df7a09fbe29a0626af6"
 }
