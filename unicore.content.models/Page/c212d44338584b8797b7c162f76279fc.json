@@ -6,12 +6,12 @@
   "primary_category": "ab26c6bfad66410a82b0e274f4c3b729", 
   "created_at": "2014-10-13T10:50:22+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-03T12:24:44.421696+00:00", 
+  "modified_at": "2014-12-03T14:52:18.714960+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -23,7 +23,7 @@
   "image": null, 
   "published": true, 
   "position": 44, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "image_host": "http://thumbor.unicore.io", 
   "slug": "utupaji-salama-wa-taka-zote-za-kaya-husaidia-kuweka-mazingira-ya-kuishi-katika-hali-ya-usafi-na-ya-kiafya-mazingira-ya-namna-hiyo-husaidia-kuzuia-magonjwa", 
   "uuid": "c212d44338584b8797b7c162f76279fc"
 }
