@@ -6,12 +6,12 @@
   "primary_category": "8db1a6f44dd9426da7a50a4664bb84cf", 
   "created_at": "2014-10-13T11:48:11+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-03T12:24:41.391043+00:00", 
+  "modified_at": "2014-12-03T14:52:16.677572+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -23,7 +23,7 @@
   "image": null, 
   "published": true, 
   "position": 38, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "image_host": "http://thumbor.unicore.io", 
   "slug": "visu-mikasi-vitu-vyenye-ncha-kali-na-chupa-zilizopasuka-huweza-kusababisha-majeraha", 
   "uuid": "3855260d6f0f475c8720b6a56fd9c3bd"
 }
