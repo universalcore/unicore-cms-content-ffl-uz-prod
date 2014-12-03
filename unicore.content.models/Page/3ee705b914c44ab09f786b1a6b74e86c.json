@@ -6,12 +6,12 @@
   "primary_category": "62caccc5066b4e9f82185983536893fb", 
   "created_at": "2014-10-13T14:17:30+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-03T12:24:34.641071+00:00", 
+  "modified_at": "2014-12-03T14:52:10.911370+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -23,7 +23,7 @@
   "image": null, 
   "published": true, 
   "position": 20, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "image_host": "http://thumbor.unicore.io", 
   "slug": "watoto-wote-waliozaliwa-na-mama-wenye-vvu-au-wazazi-wenye-dalili-au-hali-zinaonesha-kuwa-wana-vvu-wanapaswa-kupimwa-vvu-ikibainika-kuwa-wana-vvu-wanapaswa-kupewa-maelekezo-ya-kufuatilia-matunzo-na-t", 
   "uuid": "3ee705b914c44ab09f786b1a6b74e86c"
 }
