@@ -6,12 +6,12 @@
   "primary_category": "ab26c6bfad66410a82b0e274f4c3b729", 
   "created_at": "2014-10-13T10:22:49+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-03T12:24:47.358499+00:00", 
+  "modified_at": "2014-12-03T14:52:22.750195+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -23,7 +23,7 @@
   "image": null, 
   "published": true, 
   "position": 49, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "image_host": "http://thumbor.unicore.io", 
   "slug": "vinyesi-ikiwa-ni-pamoja-na-vile-vya-watoto-wachanga-vinapaswa-kutupwa-mahali-salama-kuhakikisha-kuwa-wanafamilia-wote-wanatumia-choo-au-kifaa-cha-kuendea-haja-kwa-watoto-wadogo-kama-njia-bora-ya", 
   "uuid": "214fc83164934b05948adf9fb92daa7c"
 }
