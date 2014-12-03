@@ -6,12 +6,12 @@
   "primary_category": "532fd0a3a4ec412f9b5d7f52fcaf3787", 
   "created_at": "2014-07-22T18:01:00+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-03T12:25:22.110186+00:00", 
+  "modified_at": "2014-12-03T14:52:48.037154+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -23,7 +23,7 @@
   "image": null, 
   "published": true, 
   "position": 3, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "image_host": "http://thumbor.unicore.io", 
   "slug": "diarrhoea-kills-children-by-draining-liquid-from-the-body-which-dehydrates-the-child-as-soon-as-diarrhoea-starts-it-is-essential-to-give-the-child-extra-fluids-along-with-regular-foods-and-fluids", 
   "uuid": "bdcc51a6a0d54809b8197df3885f1e1f"
 }
