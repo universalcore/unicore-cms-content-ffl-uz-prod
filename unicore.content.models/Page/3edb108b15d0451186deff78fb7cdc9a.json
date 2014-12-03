@@ -6,12 +6,12 @@
   "primary_category": "de2b830c9bc74c8590ed0ffdc90f2758", 
   "created_at": "2014-10-13T13:13:20+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-03T12:24:38.410361+00:00", 
+  "modified_at": "2014-12-03T14:52:14.348100+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -23,7 +23,7 @@
   "image": null, 
   "published": true, 
   "position": 31, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "image_host": "http://thumbor.unicore.io", 
   "slug": "kwa-kawaida-inapendeza-watoto-kutunzwa-na-wazazi-au-walezi-wao-wa-kawaida-kwa-sababu-hali-hii-inawafanya-watoto-wajisikie-wako-salama-zaidi-ikiwa-kutatokea-kutenganishwa-jitihada-zinapaswa-kufanywa", 
   "uuid": "3edb108b15d0451186deff78fb7cdc9a"
 }
